@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/v3cphyyuw8qee3i3/branch/master?svg=true)](https://ci.appveyor.com/project/Alex-nikiforova/hw-1-2-api-ci/branch/master)
