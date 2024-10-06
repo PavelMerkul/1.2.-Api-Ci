@@ -13,7 +13,7 @@
     ],
     "properties": {
       "id": {
-        "type": "boolean" // string
+        "type": "string"
       },
       "name": {
         "type": "string",
